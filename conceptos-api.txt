@@ -1,0 +1,9 @@
+¿Qué hace la ruta Post y Para qué podría servir en una aplicación 
+comunitaria?
+
+la ruta Post se utiliza para  recibir información que envia un usuario 
+desde una aplicación o sitio web que es cuando el servidor toma 
+la información y lo guarda en una variable que se llama MENSAJE, a su vez
+tambien es importante para la comunidad y que permite recibir información
+sobre diversas situaciones de la vida cotidian y asi queda información
+mas organizada.
